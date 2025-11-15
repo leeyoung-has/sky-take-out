@@ -7,4 +7,6 @@ sky:
     username: root
     password: 1234
 
-
+# JWT开关配置
+jwt:
+  admin-enabled : false
